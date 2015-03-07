@@ -38,7 +38,7 @@ Choosing the correct Board. You need to set up the Arduino Interface so it is co
 SIX
 Download some Libraries - reference programmes that will make the PicoBot work. 
 
-Start by getting Martin Bateman’s library. Go to https://github.com/batemanm/picobot and copy it into your gitHub repository. In your Arduino IDE, go to Sketch -> Import Library -> Add Library. Navigate to the GitHub repository and import it.
+Start by getting Martin Bateman’s library. Go to https://github.com/batemanm/picobot and download this. In your Arduino IDE, go to Sketch -> Import Library -> Add Library. Navigate to the downloaded Zip file and you are done.
 
 SEVEN
-test
+Choose some of the example programmes and copy and paste from GitHub https://github.com/4tronix/Picobot/tree/master/Software/Picobot/ into the Arduino RDE. Test, Upload, and off you go.
